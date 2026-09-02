@@ -1,0 +1,264 @@
+{
+  "BTEC-I": {
+    "BTEC IT": [
+      {
+        "id": "L1-IT-1",
+        "name": "IT Systems & Infrastructure"
+      },
+      {
+        "id": "L1-IT-2",
+        "name": "Programming Fundamentals"
+      },
+      {
+        "id": "L1-IT-3",
+        "name": "Digital Design & Multimedia"
+      }
+    ],
+    "BTEC Business": [
+      {
+        "id": "L1-BUS-1",
+        "name": "Business Environment"
+      },
+      {
+        "id": "L1-BUS-2",
+        "name": "Marketing Principles"
+      },
+      {
+        "id": "L1-BUS-3",
+        "name": "Business Communication"
+      }
+    ]
+  },
+  "BTEC-II": {
+    "BTEC IT": [
+      {
+        "id": "L2-IT-1",
+        "name": "Web & App Development"
+      },
+      {
+        "id": "L2-IT-2",
+        "name": "Networking & Cyber Security"
+      },
+      {
+        "id": "L2-IT-3",
+        "name": "Database Systems"
+      }
+    ],
+    "BTEC Business": [
+      {
+        "id": "L2-BUS-1",
+        "name": "Business Finance & Accounting"
+      },
+      {
+        "id": "L2-BUS-2",
+        "name": "Human Resource Management"
+      },
+      {
+        "id": "L2-BUS-3",
+        "name": "Business Strategy & Enterprise"
+      }
+    ]
+  },
+  "IG1": [
+    {
+      "id": "IG1-ACC",
+      "name": "Accounting"
+    },
+    {
+      "id": "IG1-ADDMATH",
+      "name": "Additional Mathematics"
+    },
+    {
+      "id": "IG1-BIO",
+      "name": "Biology"
+    },
+    {
+      "id": "IG1-BUS",
+      "name": "Business Studies"
+    },
+    {
+      "id": "IG1-CHEM",
+      "name": "Chemistry"
+    },
+    {
+      "id": "IG1-COMM",
+      "name": "Commerce"
+    },
+    {
+      "id": "IG1-COMP",
+      "name": "Computer Science"
+    },
+    {
+      "id": "IG1-ECO",
+      "name": "Economics"
+    },
+    {
+      "id": "IG1-EM",
+      "name": "Environmental Management"
+    },
+    {
+      "id": "IG1-ICT",
+      "name": "Information & Communication Technology"
+    },
+    {
+      "id": "IG1-PHY",
+      "name": "Physics"
+    }
+  ],
+  "IG2": [
+    {
+      "id": "IG2-ACC",
+      "name": "Accounting"
+    },
+    {
+      "id": "IG2-ADDMATH",
+      "name": "Additional Mathematics"
+    },
+    {
+      "id": "IG2-BIO",
+      "name": "Biology"
+    },
+    {
+      "id": "IG2-BUS",
+      "name": "Business Studies"
+    },
+    {
+      "id": "IG2-CHEM",
+      "name": "Chemistry"
+    },
+    {
+      "id": "IG2-COMM",
+      "name": "Commerce"
+    },
+    {
+      "id": "IG2-COMP",
+      "name": "Computer Science"
+    },
+    {
+      "id": "IG2-ECO",
+      "name": "Economics"
+    },
+    {
+      "id": "IG2-EM",
+      "name": "Environmental Management"
+    },
+    {
+      "id": "IG2-ICT",
+      "name": "Information & Communication Technology"
+    },
+    {
+      "id": "IG2-PHY",
+      "name": "Physics"
+    }
+  ],
+  "IG3": [
+    {
+      "id": "IG3-ACC",
+      "name": "Accounting"
+    },
+    {
+      "id": "IG3-BIO",
+      "name": "Biology"
+    },
+    {
+      "id": "IG3-BUS",
+      "name": "Business Studies"
+    },
+    {
+      "id": "IG3-CHEM",
+      "name": "Chemistry"
+    },
+    {
+      "id": "IG3-COMP",
+      "name": "Computer Science"
+    },
+    {
+      "id": "IG3-ECO",
+      "name": "Economics"
+    },
+    {
+      "id": "IG3-PHY",
+      "name": "Physics"
+    }
+  ],
+  "AS": [
+    {
+      "id": "AS-ACC",
+      "name": "Accounting"
+    },
+    {
+      "id": "AS-BIO",
+      "name": "Biology"
+    },
+    {
+      "id": "AS-BUS",
+      "name": "Business Studies"
+    },
+    {
+      "id": "AS-CHEM",
+      "name": "Chemistry"
+    },
+    {
+      "id": "AS-COMP",
+      "name": "Computer Science"
+    },
+    {
+      "id": "AS-ECO",
+      "name": "Economics"
+    },
+    {
+      "id": "AS-FURMATH",
+      "name": "Further Mathematics"
+    },
+    {
+      "id": "AS-LAW",
+      "name": "Law"
+    },
+    {
+      "id": "AS-MATH",
+      "name": "Mathematics"
+    },
+    {
+      "id": "AS-PHY",
+      "name": "Physics"
+    }
+  ],
+  "A2": [
+    {
+      "id": "A2-ACC",
+      "name": "Accounting"
+    },
+    {
+      "id": "A2-BIO",
+      "name": "Biology"
+    },
+    {
+      "id": "A2-BUS",
+      "name": "Business Studies"
+    },
+    {
+      "id": "A2-CHEM",
+      "name": "Chemistry"
+    },
+    {
+      "id": "A2-COMP",
+      "name": "Computer Science"
+    },
+    {
+      "id": "A2-LAW",
+      "name": "Law"
+    },
+    {
+      "id": "A2-MATH",
+      "name": "Mathematics"
+    },
+    {
+      "id": "A2-PHY",
+      "name": "Physics"
+    },
+    {
+      "id": "A2-URDU",
+      "name": "Urdu"
+    }
+  ]
+}
