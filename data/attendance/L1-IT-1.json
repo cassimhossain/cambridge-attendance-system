@@ -1,5 +1,12 @@
 {
   "subjectId": "L1-IT-1",
   "subjectName": "IT Systems & Infrastructure",
-  "records": {}
+  "records": {
+    "2026-09-01": {
+      "538664": "A"
+    },
+    "2026-09-02": {
+      "538664": "A"
+    }
+  }
 }
